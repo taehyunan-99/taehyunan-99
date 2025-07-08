@@ -1,4 +1,10 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=TaeHyun's%20GitHub)
+
+
+> STUDYING
+
+- Git
+
 
 <!--
 **TaeHyunAn817/TaeHyunAn817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
