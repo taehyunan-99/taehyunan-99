@@ -1,0 +1,19 @@
+<svg fill="none" viewBox="0 0 800 150" width="800" height="150" xmlns="http://www.w3.org/2000/svg">
+    2     <style>
+    3         .header-text {
+    4             font-family: 'Segoe UI', 'Verdana', sans-serif;
+    5             font-size: 50px;
+    6             font-weight: bold;
+    7             animation: fadeIn 2s ease-in-out;
+    8         }
+    9         @keyframes fadeIn {
+   10             from { opacity: 0; }
+   11             to { opacity: 1; }
+   12         }
+   13     </style>
+   14     <rect width="800" height="150" fill="#282c34"/>
+   15     <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="header-text">
+   16         <tspan fill="#ffffff">TaeHyun's</tspan>
+   17         <tspan fill="#F1E05A"> GitHub</tspan>
+   18     </text>
+   19 </svg>
