@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+ ![TaeHyun's GitHub Header](./header.svg)
