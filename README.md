@@ -1,4 +1,4 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=3766AB&height=300&section=header&text=TaeHyun's%20GitHub&fontColor=ffffff) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=3766AB&height=300&section=header&text=TaeHyun's%20GitHub&fontColor=ffffff) 
 
 
 
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 -->
 
 
- ![TaeHyun's GitHub Header](./header.svg)
+<!-- ![TaeHyun's GitHub Header](./header.svg) -->
