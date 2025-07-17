@@ -1,9 +1,5 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=3766AB&height=300&section=header&text=TaeHyun's%20GitHub&fontColor=ffffff) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=3766AB&height=300&section=header&text=TaeHyun's%20GitHub&fontColor=ffffff)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3766AB&height=200&section=header&text=TaeHyun's&fontColor=ffffff" style="display:inline;"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3766AB&height=200&section=header&text=GitHub&fontColor=f9ca24" style="display:inline;"/>
-</p>
 
 
 
