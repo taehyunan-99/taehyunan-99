@@ -1,4 +1,4 @@
-<svg width="200" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+<!-- <svg width="200" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
        <defs>
          <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
            <stop offset="0%" style="stop-color:#8a3ab9;stop-opacity:1" />
@@ -13,6 +13,22 @@
         dy=".3em"
         font-family="Segoe UI, Verdana, sans-serif"
         font-size="45"
+        font-weight="bold"
+        fill="#ffffff">
+        TH
+      </text>
+    </svg>
+-->
+
+ <svg width="200" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+       <circle cx="50" cy="50" r="50" fill="#2c3e50"/>
+       <text
+         x="50%"
+         y="50%"
+         text-anchor="middle"
+         dy=".3em"
+         font-family="Segoe UI, Verdana, sans-serif"
+         font-size="45"
         font-weight="bold"
         fill="#ffffff">
         TH
