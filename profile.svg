@@ -21,7 +21,7 @@
 -->
 
  <svg width="200" height="200" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-       <circle cx="50" cy="50" r="50" fill="#2c3e50"/>
+       <circle cx="50" cy="50" r="50" fill="#D1EAF0"/>
        <text
          x="50%"
          y="50%"
@@ -30,7 +30,7 @@
          font-family="Segoe UI, Verdana, sans-serif"
          font-size="45"
         font-weight="bold"
-        fill="#ffffff">
+        fill="#333333">
         TH
       </text>
     </svg>
