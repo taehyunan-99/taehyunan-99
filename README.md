@@ -1,4 +1,7 @@
-# ![header](https://capsule-render.vercel.app/api?type=waving&color=3766AB&height=300&section=header&text=TaeHyun's%20GitHub&fontColor=ffffff)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=3766AB&height=300&section=header&text=TaeHyun's%20GitHub&fontColor=ffffff) -->
+![header1](https://capsule-render.vercel.app/api?type=waving&color=3766AB&height=200&section=header&text=TaeHyun's&fontColor=ffffff)
+![header2](https://capsule-render.vercel.app/api?type=waving&color=3766AB&height=200&section=header&text=GitHub&fontColor=f9ca24)
+
 
 
 > STUDYING
