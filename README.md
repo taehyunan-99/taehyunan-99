@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=3766AB&height=300&section=header&text=TaeHyun's%20GitHub&fontColor=ffffff)
+# ![header](https://capsule-render.vercel.app/api?type=waving&color=3766AB&height=300&section=header&text=TaeHyun's%20GitHub&fontColor=ffffff)
 
 
 > STUDYING
