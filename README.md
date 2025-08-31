@@ -1,6 +1,6 @@
 <!-- 상단 헤더 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=TaeHyun's%20GitHub&fontSize=90&fontAlignY=35&desc=Data%20Analyst%20|%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=250&section=header&text=TaeHyun's%20GitHub&fontSize=90&fontAlignY=35&desc=Data%20Analyst%20|%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff&animation=blink"/>
 </div> 
 
 
@@ -129,5 +129,5 @@ print("Keep learning and growing! 📚✨")
 
 <!-- 하단 푸터 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=footer"/>
 </div>
