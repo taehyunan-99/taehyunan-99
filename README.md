@@ -51,8 +51,3 @@ print("Always Learning, Always Improving!")
 
 <!-- 연락처 배지들: GitHub 메인 프로필과 Velog 블로그 -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/taehyunan-99) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@taehyunan817/posts)
-
-<!-- 하단 푸터: 웨이브 애니메이션, 파란색-보라색 그라디언트 -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=100&section=footer"/>
-</div>
