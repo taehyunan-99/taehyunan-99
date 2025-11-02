@@ -22,10 +22,10 @@
 <!-- GitHub Stats: 커밋 스트릭과 언어 사용 비율 2가지 통계 표시 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=250&lines=GitHub+Stats)](https://git.io/typing-svg)
 
-<!-- GitHub 통계 1)커밋 스트릭 (fallback: 활동 그래프) 2)언어 사용 비율 -->
+<!-- GitHub 통계 1)토탈 커밋수와 등급 2)언어 사용 비율 -->
 <div align="center">
-  <img height="150em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=taehyunan-99&theme=dark&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" onerror="this.src='https://github-readme-activity-graph.vercel.app/graph?username=taehyunan-99&theme=github-compact&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=c9d1d9'" alt="GitHub Streak Stats"/>
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taehyunan-99&layout=compact&theme=gradient&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taehyunan-99&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taehyunan-99&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9"/>
 </div>
 
 ---
@@ -49,4 +49,4 @@ print("Always Learning, Always Improving!")
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=220&lines=Contact+Me)](https://git.io/typing-svg)
 
 <!-- 연락처 배지들: GitHub 메인 프로필과 Velog 블로그 -->
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/taehyunan-99) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@taehyunan817/posts)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rapael817@naver.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/taehyunan-99) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@taehyunan817/posts)
