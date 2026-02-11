@@ -9,7 +9,11 @@
 <!-- 자기소개 내용 -->
 **Hello I'm TaeHyunAn, Currently Studying Data Analysis**
 
+<br/>
+
 ---
+
+<br/>
 
 <!-- Skills: 기술 스택 표시, 타이핑 애니메이션 제목 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=150&lines=Skills)](https://git.io/typing-svg)
@@ -17,18 +21,11 @@
 <!-- 기술 스택 배지들: 데이터 분석, 개발 도구, 웹 기술 -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
-
-<!-- GitHub Stats: 커밋 스트릭과 언어 사용 비율 2가지 통계 표시 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=250&lines=GitHub+Stats)](https://git.io/typing-svg)
-
-<!-- GitHub 통계 1)토탈 커밋수와 등급 2)언어 사용 비율 -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taehyunan-99&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taehyunan-99&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9"/>
-</div>
+<br/>
 
 ---
+
+<br/>
 
 <!-- Currently Studying: 현재 학습 중인 기술과 목표를 Python 코드 형식으로 표시 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=320&lines=Currently+Studying)](https://git.io/typing-svg)
@@ -43,7 +40,11 @@ studying = {
 print("Always Learning, Always Improving!")
 ```
 
+<br/>
+
 ---
+
+<br/>
 
 <!-- Contact Me: 연락처 링크들 (GitHub, Velog) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=220&lines=Contact+Me)](https://git.io/typing-svg)
