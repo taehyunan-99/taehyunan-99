@@ -1,6 +1,6 @@
 <!-- 상단 헤더: 애니메이션 웨이브 헤더, 파란색-보라색 그라디언트, 반짝이는 텍스트 효과 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=280&section=header&text=TaeHyun's%20GitHub&fontSize=78&fontAlignY=35&desc=Learning%20Data%20Analysis%20%7C%20Growing%20Data%20%26%20AI%20Specialist&descAlignY=62&descAlign=50&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20&height=280&section=header&text=TaeHyun's%20GitHub&fontSize=78&fontAlignY=35&desc=Learning%20Data%20Analysis%20|%20Growing%20Developer&descAlignY=62&descAlign=50&fontColor=ffffff&animation=twinkling"/>
 </div>
 
 <!-- About Me: 타이핑 애니메이션 제목 -->
